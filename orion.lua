@@ -702,7 +702,6 @@ function OrionLib:MakeWindow(WindowConfig)
 			Position = UDim2.new(0.5, 19, 0.5, 0),
 			TextXAlignment = Enum.TextXAlignment.Center,
 			Font = Enum.Font.GothamBold,
-			TextColor3 = Color3.fromRGB(0, 0, 0),
 			TextTransparency = 1
 		})
 
